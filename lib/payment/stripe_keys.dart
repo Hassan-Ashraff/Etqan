@@ -1,0 +1,4 @@
+abstract class ApiKeys {
+  static const String pusblishableKey = "pk_test_51Q5nV7FF9q8ToGd8LK5BP3BaAKQGenDTdFameYinLXGybrHcG95WYPjGrNb5TFk48r0bOwSZy6MirWR2UnASC14O00mceqI0L8";
+  static const String secretKey = "sk_test_51Q5nV7FF9q8ToGd8JuUDS1usIH8DMk7FO1ZTumLxsftEkaK5WCCH8YSavBGYYpmOEOvVCPnAwtH69pcrXUAF8A8w00ZsX76Go7";
+}

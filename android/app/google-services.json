@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340278639991",
+    "project_id": "etqan-adaab",
+    "storage_bucket": "etqan-adaab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340278639991:android:0e036b759817f01dcfb572",
+        "android_client_info": {
+          "package_name": "com.example.etqan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOB4XVKGj7uxW2rBZc9kD7fmT9tMcIiPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
